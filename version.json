@@ -1,10 +1,7 @@
 {
   "versionCode": 2,
-  "versionName": "v1.2",
-  "apkUrl": "https://preview--rishi-sentinel-hub.lovable.app/",
-  "changelog": [
-    "Improved on-device fraud model accuracy",
-    "Added +882 short-number call filtering",
-    "Faster lockscreen alert rendering"
-  ]
+  "versionName": "1.2",
+  "downloadUrl": "https://github.com/Saman22178/Dark_rishi_guard_host/releases/download/v1.2/dark_rishi_v1.2.apk",
+  "changeLog": "New Security Features & Performance Improvements!"
 }
+
